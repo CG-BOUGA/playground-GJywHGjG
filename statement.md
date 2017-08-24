@@ -3,7 +3,7 @@
 This Swift template lets you get started quickly with a simple one-page playground.
 
 ```swift runnable
-print('Hello World!')
+print("Hello World!")
 ```
 
 # Advanced usage
